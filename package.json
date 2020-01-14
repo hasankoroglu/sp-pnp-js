@@ -32,5 +32,6 @@
   },
   "devDependencies": {
     "sp-rest-proxy": "^2.10.3"
-  }
+  },
+  "proxy": "http://localhost:8080"
 }
